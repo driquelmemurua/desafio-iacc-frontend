@@ -15,4 +15,4 @@ $ npm run build
 $ npm start
 ```
 
-Abre [http://localhost:3000](http://localhost:3000) en el navegador para ver la aplicación.
+Abre [http://localhost:8080](http://localhost:8080) en el navegador para ver la aplicación.
