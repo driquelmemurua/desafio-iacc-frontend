@@ -1,5 +1,6 @@
 import { PageContentProps } from "@/types/components/PageContent";
 import { Breadcrumb, Layout, Typography } from "antd";
+import Head from "next/head";
 
 const { Content } = Layout;
 const { Title } = Typography;
@@ -13,6 +14,9 @@ export function PageContent({
     <Content style={{
       padding: '0.5rem 2rem',
     }}>
+      <Head>
+        <title>IACC - {title}</title>
+      </Head>
       <Breadcrumb 
         items={breadcrumbs} 
         style={{

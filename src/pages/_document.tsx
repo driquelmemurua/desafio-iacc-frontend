@@ -7,7 +7,6 @@ const MyDocument = () => (
   <Html lang="en">
     <Head>
       <link rel="shortcut icon" type="image/png" href="/iacc-favicon.png" />
-      <title>IACC</title>
     </Head>
     <body>
       <Main />
