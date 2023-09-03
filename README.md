@@ -1,5 +1,9 @@
 # Desafío IACC Frontend
 
+## Preparación
+
+Para visualizar correctamente las vistas es necesario levantar el [Backend](https://github.com/driquelmemurua/desafio-iacc-backend) de la aplicación
+
 ## Instalación
 
 Correr los siguientes comandos en la terminal:
